@@ -1,0 +1,2 @@
+# Tipmobile
+Aplikacja mobilna Tipmobile
